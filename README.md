@@ -1,1 +1,2 @@
 # Indoor-Dynamic-Positioning-System-Based-on-Mobile-Phone-Magnetic-Sensors
+The goal is to build an indoor dynamic positioning system based on  mobile phone magnetic sensors. This system will utilize changes in the  geomagnetic field and sensor data to achieve indoor positioning. A  mobile application will be developed to display dynamic positions on a  map, and provide features such as path tracking and trajectory display.       
